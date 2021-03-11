@@ -5,3 +5,4 @@ WTForms==2.3.3
 Flask-WTF==0.14.3
 PyYAML==5.4.1
 cryptography
+email-validator

@@ -4,7 +4,7 @@ from flask_mysqldb import MySQL
 import yaml
 app = Flask(__name__)
 
-app.config['SECRET_KEY'] = '0bc8d6c0b3b64503b5a064b83ae4e9c7'
+app.config['SECRET_KEY'] = ''
 # db = yaml.load(open('db.yaml'))
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'

@@ -153,4 +153,4 @@ cython_debug/
 
 # yaml file
 
-webapp/*.yaml
+/webapp/db.yaml
